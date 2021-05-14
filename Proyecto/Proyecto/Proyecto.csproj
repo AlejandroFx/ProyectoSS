@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Accord">
+      <HintPath>..\..\..\..\OneDrive\Escritorio\Proyecto Mario Rios\framework-development\Samples\Fuzzy\Robot (Inference)\bin\x86\Debug\Accord.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Fuzzy">
+      <HintPath>..\..\..\..\OneDrive\Escritorio\Proyecto Mario Rios\framework-development\Samples\Fuzzy\Robot (Inference)\bin\x86\Debug\Accord.Fuzzy.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
